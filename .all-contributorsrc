@@ -1,0 +1,25 @@
+{
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "supriyasinhaa",
+      "name": "Supriya Sinha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47394534?v=4",
+      "profile": "https://github.com/supriyasinhaa",
+      "contributions": [
+        "maintenance",
+        "mentoring"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Personal-Portfolio",
+  "projectOwner": "DSC-SIST",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
